@@ -1,6 +1,4 @@
 # fill_db.py
-# Запусти ОДИН РАЗ: python fill_db.py
-# Заполняет БД играми и автоматически скачивает обложки.
 
 import os
 import urllib.request
