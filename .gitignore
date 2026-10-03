@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# PyCharm
+.idea/
+*.iml
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Настройки с паролем
+config.py
+
+# Логи
+*.log
+
+# Система
+.DS_Store
+Thumbs.db
+desktop.ini

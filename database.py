@@ -1,5 +1,9 @@
 # database.py
 import mysql.connector
+# database.py
+import mysql.connector
+from mysql.connector.locales.eng import client_error   # ← ДОБАВЬ ЭТУ СТРОКУ
+from config import DB_CONFIG
 from config import DB_CONFIG
 
 
